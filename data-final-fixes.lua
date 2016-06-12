@@ -1,7 +1,3 @@
-if not defines then
-    require 'defines'
-end
-
 require "config"
 
 require "serialize_table"
